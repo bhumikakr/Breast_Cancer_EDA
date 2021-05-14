@@ -17,4 +17,4 @@
 | Decision Tree| 92.40 |
 
 
-- Here is a link to my blog where I have explained each step in detail:https://bhumika-kr.medium.com/exploratory-data-analysis-eda-for-beginners-873ab05ddde5
+- Here is a link to my blog where I have explained each step in detail : https://bhumika-kr.medium.com/exploratory-data-analysis-eda-for-beginners-873ab05ddde5
