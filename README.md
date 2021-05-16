@@ -17,4 +17,4 @@
 | Decision Tree| 92.40 |
 
 
-- Here is a link to my blog where I have explained each step in detail : https://tinyurl.com/2yh83hmk
+- Here is a link to my blog where each step is explained in detail : https://tinyurl.com/2yh83hmk
