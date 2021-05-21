@@ -10,11 +10,13 @@
 #	Model	Score
   | Model | Accuracy |
 | --- | --- |
+| Random Forest| 96.49 |
 | Logistic Regression| 95.91 |
-| Random Forest| 95.91 |
-| Support Vector Classifiers| 95.91 |
 | K - Nearest Neighbors| 94.74 |
-| Decision Tree| 92.40 |
+| Decision Tree| 92.98 |
+| Support Vector Classifiers| 92.40 |
+
+
 
 
 - Here is a link to my blog where each step is explained in detail : https://tinyurl.com/2yh83hmk
